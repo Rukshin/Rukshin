@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Jordi Pulido**, *Software Developer* at @seatcode. Mainly, on PHP and Java, looking forward to learn GoLang. Boardgame & videogames entusiast.
+I'm **Jordi Pulido**, *Software Developer* at @AdevintaSpain. Mainly, on PHP and Java, looking forward to learn GoLang. Boardgame & videogames entusiast.
 
 - 🌱 I’m currently learning Kotlin & Godot Engine
 - 💬 Ask me about videogames, boardgames or cooking
